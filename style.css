@@ -1,0 +1,131 @@
+/* navbar-section */
+.navbar-section {
+    margin-bottom: 100px;
+}
+
+/* carousel-section */
+.carousel-section {
+    background-color: #FCEAE8;
+    border-radius: 15px;
+    margin-bottom: 100px;
+}
+
+.carousel-item {
+    padding: 0px 45px;
+}
+
+.carousel-price {
+    color: #FF136F;
+}
+
+.carousel-btn {
+    padding: 10px 24px;
+    border-radius: 9px;
+    background-color: #FF136F;
+    color: white;
+    font-size: 500;
+    border: none;
+    display: inline-block;
+}
+
+/* items-catagory-section */
+
+.items-catagory-section {
+    margin-bottom: 100px;
+}
+
+.watch-item {
+    background-color: #FFA500;
+}
+
+.items-catagory {
+    padding: 20px 30px;
+    border-radius: 15px;
+    color: white;
+}
+
+.catagory-img {
+    width: 100px;
+}
+
+.bag-item {
+    background-color: #DA70D6;
+}
+
+.shoes-item {
+    background-color: #0000FF;
+}
+
+/* shoes-shop-section */
+.shoes-shop-section {
+    margin-bottom: 100px;
+}
+
+.card-title-body {
+    padding: 10px 41px;
+
+}
+
+.main-card {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding-bottom: 10px;
+}
+
+/* bag-section */
+.Bag-section {
+    margin-bottom: 100px;
+}
+
+.bag-img {
+    width: 82%;
+}
+
+.main-card-bag {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.bag-p-tag {
+    width: 288px;
+}
+
+.bag-img-main {
+    display: flex;
+    justify-content: center;
+}
+
+.bag-footer {
+    border-top: 1px solid rgba(0, 0, 0, .125);
+    background-color: rgba(0, 0, 0, .03);
+}
+
+.bag-footer-btn {
+    margin-left: 33px;
+}
+
+.bag-about {
+    text-align: center;
+}
+
+/* from-section */
+.from-section {
+    width: 100%;
+    background-color: #D8BFD8;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.from-body {
+    display: flex;
+    flex-flow: column;
+    width: 313px;
+    margin: 0 auto;
+}
+
+.from-input {
+    width: 190px;
+}
+
+/* footer-section */
+.footer-p {
+    text-align: center;
+}
